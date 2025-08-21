@@ -21,7 +21,7 @@ public class Armstrong
             
         }
         else{
-            System.out.println("Not a Armsetrong numeber");
+            System.out.println("Not a Armstrong number");
         }
     }
 }
