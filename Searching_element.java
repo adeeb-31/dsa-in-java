@@ -4,7 +4,6 @@ public class Searching_element {
         
         Scanner sc=new Scanner(System.in);
         
-
         int A[]={1,2,3,4,5,10,15,16,20};
         System.out.println("Enter the element you want to search");
 
